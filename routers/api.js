@@ -26,7 +26,4 @@ const router = express.Router();
 // router.post("/CreateProfile",auth,UserController.CreateProfile);
 // router.get("/ReadProfile",auth,UserController.ReadProfile);
 
-
-
-
 export default router; 
