@@ -18,7 +18,6 @@ const router = express.Router();
 // router.get("/ProductDeatils/:ProductID", ProductController.ProductDeatils);
 // router.get("/ProductReviewList/:ProductID", ProductController.ProductReviewList);
 
-
 // // USER
 // router.get("/UserOtp/:email", UserController.UserOtp);
 // router.get("/VerifyLogin/:email/:otp", UserController.VerifyLogin);
